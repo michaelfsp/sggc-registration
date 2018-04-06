@@ -1,6 +1,6 @@
-sggc-registration
+SGGC-registration
 =================
-A Python implementation of HajiRassouliha et al. (see references) SGGC based subpixel image registration.
+A Python implementation of HajiRassouliha et al. (see references) phase-based subpixel image registration algorithm using Savitzky-Golay differentiators.
 
 
 # References
